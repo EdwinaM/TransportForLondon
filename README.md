@@ -16,7 +16,6 @@ This test takes in two parameters for From and To locations and validates the jo
 Scenario Outline with Examples is used to add more valid journeys to the test.
 
 2.Verify that the widget is unable to provide results when one or more invalid locations are used
-
 This test is to verify the error messages when invalid locations are entered Plan My Journey Widget.
 Scenario Outline with Examples is used to add more invalid locations based on the input field criteria like number of characters, alphanumeric and special characters.
 
